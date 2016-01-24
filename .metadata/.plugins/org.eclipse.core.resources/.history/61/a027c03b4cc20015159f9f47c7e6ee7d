@@ -1,0 +1,15 @@
+/**
+ * 
+ */
+package src.leetCode;
+
+/**
+ * @author Sean
+ *
+ */
+public class NumberIdentifier {
+	public static void main(String[] args) {
+		
+	}
+
+}

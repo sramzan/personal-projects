@@ -1,0 +1,19 @@
+INDEX VERSION 1.127+C:\Users\Sean\Documents\personal-projects\.metadata\.plugins\org.eclipse.jdt.core
+387931978.index
+1393188222.index
+1145562402.index
+4000408927.index
+4066907999.index
+2940515958.index
+3732859464.index
+888590337.index
+2888485250.index
+473480828.index
+3407648045.index
+1243229948.index
+1884306523.index
+3285108741.index
+331708597.index
+2368314599.index
+3450063476.index
+1225871116.index
